@@ -1,7 +1,9 @@
 Joomla-HTML-Bootstrap-overrides
 ===============================
 
-A summary of HTML overrides for Joomla 3 and Bootstrap 3 and later
+A summary of HTML overrides for Joomla 3 and Bootstrap 3 and later.
+
+This should be a community project. For the community from the community. I want to be the person to push this forward and provide the platform. Clone it, fork it, write issues, ideas. All contributions are welcome.
 
 ## General
 The root folder of this repository is under <JoomlaRoot>/templates/<YourTemplate>/html/
