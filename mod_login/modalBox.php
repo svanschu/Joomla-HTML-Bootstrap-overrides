@@ -15,7 +15,7 @@ JHtml::_('behavior.keepalive');
 
 ?>
 <!-- Button trigger modal -->
-<button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#loginModal">
+<button class="btn btn-primary btn-xs" data-toggle="modal" data-target="#loginModal">
     <?php echo JText::_('JLOGIN'); ?>
 </button>
 <form action="<?php echo JRoute::_('index.php', true, $params->get('usesecure')); ?>" method="post" id="login-form"
