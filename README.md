@@ -16,3 +16,10 @@ This override displays an button which opens a bootstrap modal box with the logi
 
 ## com_hikashop
 Normal HikaShop supports bootstrap 2.3 but the latest bootstrap is 3.x.x with syntax changes. This overrides change the old syntax to support newer bootstrap versions.
+
+### category/carousel
+This override is a beginning to be bootstrap 3 based.
+
+Done yet:
+ * Horizontal slide with buttons
+ * Horizontal slide without buttons
