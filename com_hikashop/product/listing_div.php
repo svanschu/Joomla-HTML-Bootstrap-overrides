@@ -47,7 +47,7 @@ if((!empty($this->rows) || !$this->module || JRequest::getVar('hikashop_front_en
 		$this->pagination->form = '_top';
 ?>
 	<form action="<?php echo hikashop_currentURL(); ?>" method="post" name="adminForm_<?php echo $this->params->get('main_div_name').$this->category_selected;?>_top">
-		<div class="row hikashop_products_pagination hikashop_products_pagination_top">
+		<div class="hikashop_products_pagination hikashop_products_pagination_top">
 		<?php echo $this->pagination->getListFooter($this->params->get('limit')); ?>
 		<!--span class="hikashop_results_counter"><?php //echo $this->pagination->getResultsCounter(); ?></span-->
 		</div>
